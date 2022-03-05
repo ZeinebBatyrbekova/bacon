@@ -1,2 +1,2 @@
 # my homework
-deploy link https://zeinebbatyrbekova.github.io/bacon/
+deployed link https://zeinebbatyrbekova.github.io/bacon/
